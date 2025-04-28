@@ -181,7 +181,7 @@ public class Calculator extends javax.swing.JFrame {
             }
         });
 
-        jbtnMult.setBackground(new java.awt.Color(204, 255, 255));
+        jbtnMult.setBackground(new java.awt.Color(203, 255, 255));
         jbtnMult.setFont(new java.awt.Font("Segoe UI", 1, 24)); // NOI18N
         jbtnMult.setText("*");
         jbtnMult.setHorizontalTextPosition(javax.swing.SwingConstants.CENTER);
@@ -490,7 +490,7 @@ public class Calculator extends javax.swing.JFrame {
         
     }
         
-    }//GEN-LAST:event_jbtnEqualsActionPerformed
+    }///GEN-LAST:event_jbtnEqualsActionPerformed
 
     
     private void EnterNumbers(String q){
